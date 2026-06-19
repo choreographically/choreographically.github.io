@@ -1,13 +1,13 @@
 # Site settings: these are accessible via {{ site.title }} and so on.
-title: Conflict-free Replicated Data Types
-author: Martin Kleppmann, Annette Bieniusa, and Marc Shapiro
-description: Resources and community around CRDT technology — papers, blog posts, code and more.
+title: Choreographic Programming
+author: The Choreographic Programming Community
+description: Resources and community around choreographic programming.
 
-url: "https://crdt.tech"
+url: "https://choreographically.github.io"
 
-repo: "https://github.com/ept/crdt-website"
-github_user: "ept"
-github_repo: "crdt-website"
+repo: "https://github.com/choreographically/choreographically.github.io"
+github_user: "choreographically"
+github_repo: "choreographically.github.io"
 
 # google-analytics: UA-XXXXXXXXXX
 # logo: "assets/img/logo/SRCC-square-red.png"
